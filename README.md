@@ -17,13 +17,13 @@ To run the Notify app locally, you need to have Flutter and Dart installed on yo
 1. Clone this repository:
 
  ```bash
- git clone https://github.com/vijaymehrotra/OpSo.git
+  https://github.com/vijaymehrotra/Notify_App.git
 ```
 
 2. Navigate to the project's root directory:
 
 ```bash
-cd OpSo
+cd Notify_App
 ```
 
 3. Install dependencies:
